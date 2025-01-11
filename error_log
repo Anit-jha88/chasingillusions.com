@@ -1,0 +1,238 @@
+[01-Jan-2025 16:37:36 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:37:36 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:37:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:37:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:38:28 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:38:28 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:39:24 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:39:24 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:39:26 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:39:26 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:39:27 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:39:27 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:40:26 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:40:26 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:40:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:40:31 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:41:14 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:41:14 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 16:41:21 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 47
+[01-Jan-2025 16:41:21 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/footer.php on line 74
+[01-Jan-2025 19:09:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/index.php on line 106
+[02-Jan-2025 17:44:05 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `Cha_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-f06b11dec622097f6af933beb67af548' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[02-Jan-2025 17:44:05 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `Cha_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-f06b11dec622097f6af933beb67af548' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[04-Jan-2025 05:06:32 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 72
+[04-Jan-2025 05:10:52 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[04-Jan-2025 05:11:00 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[04-Jan-2025 05:11:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 70
+[04-Jan-2025 05:11:39 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[04-Jan-2025 13:46:05 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[04-Jan-2025 13:46:15 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 03:18:20 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 03:18:20 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 03:21:22 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 03:24:45 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 03:24:46 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 03:24:48 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 07:32:59 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 07:33:06 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 07:46:21 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[05-Jan-2025 23:10:19 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:04 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:08 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:12 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:18 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:20 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:34 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:36 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:40 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:42 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:44 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 05:06:48 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:56:24 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:14 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:19 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:23 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:34 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:38 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:42 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:47 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:57:55 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:58:03 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[06-Jan-2025 07:58:11 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[07-Jan-2025 11:44:00 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `Cha_options` WHERE `option_name` = '_site_transient_timeout_wp_theme_files_patterns-f06b11dec622097f6af933beb67af548' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[07-Jan-2025 11:44:00 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `Cha_options` WHERE `option_name` = '_site_transient_timeout_wp_theme_files_patterns-f06b11dec622097f6af933beb67af548' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[08-Jan-2025 03:21:33 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[08-Jan-2025 04:52:50 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[08-Jan-2025 20:54:35 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:87
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 87
+[08-Jan-2025 20:54:41 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:87
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 87
+[08-Jan-2025 20:55:09 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:87
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 87
+[08-Jan-2025 20:55:14 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:87
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 87
+[08-Jan-2025 20:55:45 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:87
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 87
+[08-Jan-2025 20:56:42 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:89
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 89
+[08-Jan-2025 20:56:46 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:89
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 89
+[08-Jan-2025 20:57:14 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php:89
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include()
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#2 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#3 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-home.php on line 89
+[09-Jan-2025 14:18:36 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:18:45 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:18:55 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:19:06 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:19:38 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:19:58 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:20:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 33
+[09-Jan-2025 14:20:18 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:20:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 33
+[09-Jan-2025 14:20:57 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:21:17 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:21:26 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 14:21:36 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[09-Jan-2025 18:27:50 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php:4467
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php(4467): ltrim(Array)
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-animation-production.php(124): esc_url(Array)
+#2 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include('/home2/chasingi...')
+#3 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#4 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#5 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php on line 4467
+[09-Jan-2025 18:28:07 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php:4467
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php(4467): ltrim(Array)
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-animation-production.php(124): esc_url(Array)
+#2 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include('/home2/chasingi...')
+#3 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#4 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#5 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php on line 4467
+[09-Jan-2025 19:00:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-video-production.php on line 117
+[09-Jan-2025 19:02:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-video-production.php on line 117
+[09-Jan-2025 19:05:21 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-video-production.php on line 117
+[09-Jan-2025 19:05:59 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-video-production.php on line 117
+[09-Jan-2025 19:06:16 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-video-production.php on line 117
+[09-Jan-2025 19:07:55 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/page-template/page-video-production.php on line 117
+[09-Jan-2025 19:37:36 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:36 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:36 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:36 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:37 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:38 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:38 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:38 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 19:37:38 UTC] PHP Warning:  Undefined array key 0 in /home2/chasingi/public_html/chasingillusions.com/wp-includes/meta.php on line 639
+[09-Jan-2025 20:15:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 33
+[09-Jan-2025 20:16:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 33
+[09-Jan-2025 20:23:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 33
+[09-Jan-2025 21:01:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single.php on line 33
+[09-Jan-2025 21:16:35 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php:4467
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php(4467): ltrim(Array)
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php(74): esc_url(Array)
+#2 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include('/home2/chasingi...')
+#3 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#4 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#5 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php on line 4467
+[09-Jan-2025 21:16:45 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php:4467
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php(4467): ltrim(Array)
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php(74): esc_url(Array)
+#2 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include('/home2/chasingi...')
+#3 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#4 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#5 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php on line 4467
+[09-Jan-2025 21:16:48 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php:4467
+Stack trace:
+#0 /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php(4467): ltrim(Array)
+#1 /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php(74): esc_url(Array)
+#2 /home2/chasingi/public_html/chasingillusions.com/wp-includes/template-loader.php(106): include('/home2/chasingi...')
+#3 /home2/chasingi/public_html/chasingillusions.com/wp-blog-header.php(19): require_once('/home2/chasingi...')
+#4 /home2/chasingi/public_html/chasingillusions.com/index.php(17): require('/home2/chasingi...')
+#5 {main}
+  thrown in /home2/chasingi/public_html/chasingillusions.com/wp-includes/formatting.php on line 4467
+[09-Jan-2025 23:06:51 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[10-Jan-2025 02:03:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 03:12:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 03:15:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 03:29:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 04:49:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 04:49:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 04:49:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 04:49:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 05:00:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:09:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:13:07 UTC] PHP Warning:  Undefined variable $custom_query in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/category.php on line 66
+[10-Jan-2025 06:34:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:34:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:34:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:35:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:35:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 06:35:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:00:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:08:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:10:14 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:13:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:15:24 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:37:19 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 09:37:38 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 17:14:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 67
+[10-Jan-2025 18:44:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 69
+[10-Jan-2025 22:19:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/single-our-services.php on line 69

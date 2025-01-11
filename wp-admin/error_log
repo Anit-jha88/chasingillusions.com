@@ -1,0 +1,2 @@
+[01-Jan-2025 16:26:33 UTC] PHP Warning:  Attempt to read property "title" on null in /home2/chasingi/public_html/chasingillusions.com/wp-includes/class-wp-customize-widgets.php on line 923
+[04-Jan-2025 04:13:51 UTC] PHP Parse error:  syntax error, unexpected double-quote mark, expecting "," or ";" in /home2/chasingi/public_html/chasingillusions.com/wp-content/themes/Chasingillusions/functions.php on line 648
